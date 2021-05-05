@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHAITANDEV
 - 👀 I’m interested in Data. 
-- 🌱 I’m currently learning python for data scientist
+- 🌱 I’m currently learning python for data science.
 - 💞️ I’m looking to collaborate to make impact on us.
 - 📫 How to reach me- https://www.linkedin.com/in/chaitan-dev
 
